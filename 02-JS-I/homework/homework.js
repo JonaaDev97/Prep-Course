@@ -197,7 +197,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  var jona = nombre
+  var jonag = nombre
   return ('Hola ' + nombre + '!');
 }
 
@@ -244,6 +244,7 @@ function esVocal(letra){
   }
   return "Dato incorrecto"
 }
+
 // No modificar nada debajo de esta línea
 // --------------------------------
 
